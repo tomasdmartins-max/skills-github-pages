@@ -2,6 +2,6 @@
 title: Welcome to my blog!
 ---
 
-#Name
+# Name
 
 Tomás Dias Martins
